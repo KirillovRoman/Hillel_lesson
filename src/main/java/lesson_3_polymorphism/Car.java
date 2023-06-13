@@ -1,4 +1,4 @@
-package lesson_1;
+package lesson_3_polymorphism;
 
 public class Car {
     private String name;
